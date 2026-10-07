@@ -1,0 +1,12 @@
+{
+  "title": "on Test SMKN Pringsurat",
+  "description": "This web application streamlines the redesign of educational websites, enabling schools to easily import their new designs into Wix for enhanced online presence.",
+  "language": "ID",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
